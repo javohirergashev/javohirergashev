@@ -9,9 +9,9 @@
 
 ## Tech Stack:
 
--HTML
--CSS
-PERN stack: PostGreSQL, Express, REsct, Node.js
+- HTML
+- CSS
+- PERN stack: PostGreSQL, Express, REsct, Node.js
 
 ### Languages
 
